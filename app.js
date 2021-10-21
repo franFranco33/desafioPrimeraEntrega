@@ -6,7 +6,7 @@ class Cotizacion {
     }
 }
 const criptomoneda = []
-criptomoneda.push(new Cotizacion('Bitcoin', '60000', '19000000'));
+criptomoneda.push(new Cotizacion('Bitcoin', '64000', '19000000'));
 criptomoneda.push(new Cotizacion('Moc', '0.13', '1400000000'));
 criptomoneda.push(new Cotizacion('Ether', '4000', '100000000'));
 criptomoneda.push(new Cotizacion('Sol', '180', '400000000'));
